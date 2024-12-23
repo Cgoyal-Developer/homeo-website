@@ -1,0 +1,12 @@
+
+.hero {
+    display: block;
+    box-sizing: border-box;
+    height: 500px;
+    background-color: #f4f7f4;
+    clip-path: ellipse(219% 100% at -26.05% 0%);
+    }
+    
+.hero h2{
+   padding-top: 80px;
+}
